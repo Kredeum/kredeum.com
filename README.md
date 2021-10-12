@@ -1,2 +1,3 @@
 # kredeum.com
-Dummy kredeum.com redirection
+
+Dummy https://kredeum.com to https://www.kredeum.com redirection
